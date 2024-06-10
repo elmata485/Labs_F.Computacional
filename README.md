@@ -1,6 +1,6 @@
 # Labs_F.Computacional
 
-Laboratories carried out in the course of FS-043.
+Laboratories carried out in the course of FS-043. UCR
 
 Ubuntu/Linux
 
